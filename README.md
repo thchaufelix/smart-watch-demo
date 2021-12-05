@@ -2,4 +2,4 @@
 
 This is the relationship between each device
 
-![relationship](./White List Setting.png)
+![relationship](./White List Setting.png?raw=true)
